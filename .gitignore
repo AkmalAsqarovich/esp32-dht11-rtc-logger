@@ -1,0 +1,17 @@
+# Generatsiya qilinadigan / lokal fayllar
+data.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Arduino IDE / PlatformIO
+.pio/
+.vscode/
+build/
+*.o
+*.hex
+*.bin
+
+# OS
+.DS_Store
+Thumbs.db
