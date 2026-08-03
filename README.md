@@ -1,3 +1,10 @@
+<img width="2560" height="1920" alt="image" src="https://github.com/user-attachments/assets/dca6bef9-c5dd-49dd-b39c-775cbe6f655c" />
+<img width="1280" height="768" alt="image" src="https://github.com/user-attachments/assets/c5e58ac5-cb28-4d50-b169-b6945660a94a" />
+<img width="1280" height="1181" alt="image" src="https://github.com/user-attachments/assets/390f5bc3-306e-4a78-9a0a-75c03c2db111" />
+
+
+
+
 # ESP32 + DHT11 + DS3231 + SD Card — Harorat/Namlik Logger
 
 ESP32 asosida qurilgan, DHT11 sensori orqali harorat va namlikni, DS3231 RTC
