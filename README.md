@@ -68,7 +68,5 @@ sqlite3 data.db < data/schema.sql
 - [ ] Wi-Fi orqali real-vaqt ma'lumot yuborish (masalan MQTT)
 - [ ] Sensorlarni kalibrlash
 
-## Litsenziya
-
-MIT
-loyiha haqida video: https://youtu.be/SmfQdMWrRA8?si=iwXz6mTU3QW8eMVX
+## loyiha haqida video: 
+https://youtu.be/SmfQdMWrRA8?si=iwXz6mTU3QW8eMVX
