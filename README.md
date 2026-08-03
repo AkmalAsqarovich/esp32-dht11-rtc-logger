@@ -71,3 +71,4 @@ sqlite3 data.db < data/schema.sql
 ## Litsenziya
 
 MIT
+loyiha haqida video: https://youtu.be/SmfQdMWrRA8?si=iwXz6mTU3QW8eMVX
